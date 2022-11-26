@@ -6,27 +6,27 @@ Since I was young, I have always enjoyed solving puzzles. Whether the puzzle at 
 
 This is a repository containing a portfolio of data science projects completed by me for template storage, self-learning, and hobby purposes.
 Other sites:
-- [![Tableau][tableau-shield]][https://public.tableau.com/app/profile/blayne.nation]
-- [![Tableau][linkedin-shield]][Linkedin: https://www.linkedin.com/in/blaynenation]
+- Tableau: htps://public.tableau.com/app/profile/blayne.nation
+- Linkedin: https://www.linkedin.com/in/blaynenation
 
-##Contents
+## Contents
 - Machine Learning
-  -Project
-  -Project
-  -Project
--Data Analysis and Visualization
-  -Project
-  -Project
-  -Project
--SQL
-  -Project
-  -Project
-  -Project
--Micro Projects
-  -Project
-  -Project
-  -Project
--Tools
-  -Project
-  -Project
-  -Project
+  - Project
+  - Project
+  - Project
+- Data Analysis and Visualization
+  - Project
+  - Project
+  - Project
+- SQL
+  - Project
+  - Project
+  - Project
+- Micro Projects
+  - Project
+  - Project
+  - Project
+- Tools
+  - Project
+  - Project
+  - Project
