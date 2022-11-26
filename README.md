@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This is a repository containing a portfolio of data science projects completed by me for template storage, self-learning, and hobby purposes.
+This is a repository containing asamples and demonstrations of various data science related projects completed by me for template storage, self-learning, and hobby purposes.
 
 Other sites:
 - Tableau: https://public.tableau.com/app/profile/blayne.nation
