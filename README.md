@@ -7,13 +7,13 @@ Other sites:
 
 ## Contents
 - Machine Learning
-  - Project
-  - Project
-  - Project
+  - [Heart Disease Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Heart_Disease_Prediction_Modeling.ipynb)
+  - [Housing Price Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Housing_Price_Prediction_Modeling.ipynb)
+  - []()
 - Data Analysis and Visualization
-  - Project
-  - Project
-  - Project
+  - [Paragliding IGC File Transformation and Visualization](https://nbviewer.org/github/HypnoticRegression/Data_Science_Portfolio/blob/main/Paragliding_IGC_Decoder.ipynb)
+  - [SQL DB Insertion with Python](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/SQL_DB_Insertion_With_Python.py)
+  - [Stock Market EDA and Feature Generation](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/StockMarket_EDA%2BFeature_Generation.ipynb)
 - SQL
   - Project
   - Project
@@ -23,6 +23,7 @@ Other sites:
   - Project
   - Project
 - Tools
-  - Project
-  - Project
-  - Project
+  - [SQL Template for Google Sheets Insertion](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Template_SQL_GSheets_Automation.py)
+  - [Excel Folder Search Tool](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Excel_Folder_Search_Tool.py)
+  - [Excel File Consolidation Tool](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Excel_File_Consolidation_Tool.py)
+  - [3D Plotly Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/3D_Plotly_Modeling.ipynb)
