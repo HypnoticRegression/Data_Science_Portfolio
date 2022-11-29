@@ -9,6 +9,7 @@ Other sites:
 - Machine Learning
   - [Heart Disease Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Heart_Disease_Prediction_Modeling.ipynb)
   - [Housing Price Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Housing_Price_Prediction_Modeling.ipynb)
+    - Prediction of
   - []()
 - Data Analysis and Visualization
   - [Paragliding IGC File Transformation and Visualization](https://nbviewer.org/github/HypnoticRegression/Data_Science_Portfolio/blob/main/Paragliding_IGC_Decoder.ipynb)
