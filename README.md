@@ -8,8 +8,7 @@ Other sites:
 ## Contents
 - Machine Learning
   - [Heart Disease Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Heart_Disease_Prediction_Modeling.ipynb)
-  - [Housing Price Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Housing_Price_Prediction_Modeling.ipynb)
-    - Prediction of
+  - [Housing Price Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Housing_Price_Prediction_Modeling.ipynb): Experimenting with various machine learning regression models using block level housing prices from the 1990 California Census, and evaluating the best model. Uses a variety of reusable production ready functions to transform the dataset and evaluate the models for efficacy.
   - []()
 - Data Analysis and Visualization
   - [Paragliding IGC File Transformation and Visualization](https://nbviewer.org/github/HypnoticRegression/Data_Science_Portfolio/blob/main/Paragliding_IGC_Decoder.ipynb)
