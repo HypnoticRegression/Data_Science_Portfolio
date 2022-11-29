@@ -23,7 +23,7 @@ Other sites:
   - Project
   - Project
 - Tools
-  - [SQL Template for Google Sheets Insertion](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Template_SQL_GSheets_Automation.py)
-  - [Excel Folder Search Tool](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Excel_Folder_Search_Tool.py)
-  - [Excel File Consolidation Tool](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Excel_File_Consolidation_Tool.py)
-  - [3D Plotly Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/3D_Plotly_Modeling.ipynb)
+  - [SQL Template for Google Sheets Insertion](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Template_SQL_GSheets_Automation.py): A handy template I have used for automation in many aspects to Google's API client with Python package PyGsheets for placing the output of SQL queries into a Google sheet, along with sheet formatting examples and workbook sharing via email.
+  - [Excel Folder Search Tool](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Excel_Folder_Search_Tool.py): Searches all like-kind file types within a folder and returns lines/rows into a new DataFrame/Excel with the matched line or row and location of the matched data.
+  - [Excel File Consolidation Tool](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Excel_File_Consolidation_Tool.py): Takes many excel files into one within a single folder. A useful tool for consolidation of weekly reporting that is generated with similar column headers daily, weekly, or monthly.
+  - [3D Plotly Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/3D_Plotly_Modeling.ipynb): An example of a 3D interactive chart in Plotly using Federal Reserve Federal Funding Rates over time. 
