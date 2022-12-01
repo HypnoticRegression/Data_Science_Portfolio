@@ -14,6 +14,10 @@ Other sites:
   - [Paragliding IGC File Transformation and Visualization](https://nbviewer.org/github/HypnoticRegression/Data_Science_Portfolio/blob/main/Paragliding_IGC_Decoder.ipynb): A from scratch project to decode and trasnform IGC flight files in order to obtain flat file formatted data in Pandas, with subsequent analysis and identification of efficient gliding methods and local thermal insights.
   - [SQL DB Insertion with Python](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/SQL_DB_Insertion_With_Python.py): A setup of SQLite3 on my local machine with insertion of new tables and records into the database from different file formats contained in a single folder. Offers direct file insertion or batch file insertion utilizing the Glob package.
   - [Stock Market EDA and Feature Generation](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/StockMarket_EDA%2BFeature_Generation.ipynb): A primer on algorithmic trading and feature engineering of daily stock price data using TQQQ, including a simple moving average (Mean Reversion) trading strategy with subsequent backtest of trade signals, outputting key performance metrics to inform personal trading.
+
+- NLP
+  - [Word Cloud](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Word_Clouding.ipynb): Creating a simple word cloud and adding some flare by fitting the world cloud to a background image
+
 - SQL
   - Project
   - Project
