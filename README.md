@@ -7,16 +7,18 @@ Other sites:
 
 ## Contents
 - Machine Learning
-  - [Heart Disease Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Heart_Disease_Prediction_Modeling.ipynb): Predicting heart disease in patients using a complilation of machine learning classification models, with transformation of data using Standard Scalars and a K-Nearest Neighbors function for imputing missing data into the dataset. Evaluation of models demonstrating confusion matrices and AUC.
-  - [Housing Price Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Housing_Price_Prediction_Modeling.ipynb): Experimenting with various machine learning regression models using block level housing prices from the 1990 California Census, and evaluating the best model. Uses a variety of reusable production ready functions to transform the dataset and evaluate the models for efficacy, including cross validation.
+  - [Heart Disease Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Heart_Disease_Prediction_Modeling.ipynb): Predicting heart disease in patients using a complilation of machine learning classification models, with transformation of data using Standard Scalars and a K-Nearest Neighbors function for imputing missing data into the dataset. Evaluation of models demonstrating confusion matrices and AUC. Uses 5 different classification algorithms with performance summaries on each.
+  - [Housing Price Prediction Modeling](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Housing_Price_Prediction_Modeling.ipynb): Experimenting with various machine learning regression models using block level housing prices from the 1990 California Census, and evaluating the best model. Uses a variety of reusable functions to transform the dataset and evaluate the models for efficacy, including cross validation. Uses 9 different regression algorithms with comparisons of each.
   - []()
 - Data Analysis and Visualization
   - [Paragliding IGC File Transformation and Visualization](https://nbviewer.org/github/HypnoticRegression/Data_Science_Portfolio/blob/main/Paragliding_IGC_Decoder.ipynb): A from scratch project to decode and trasnform IGC flight files in order to obtain flat file formatted data in Pandas, with subsequent analysis and identification of efficient gliding methods and local thermal insights.
   - [SQL DB Insertion with Python](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/SQL_DB_Insertion_With_Python.py): A setup of SQLite3 on my local machine with insertion of new tables and records into the database from different file formats contained in a single folder. Offers direct file insertion or batch file insertion utilizing the Glob package.
   - [Stock Market EDA and Feature Generation](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/StockMarket_EDA%2BFeature_Generation.ipynb): A primer on algorithmic trading and feature engineering of daily stock price data using TQQQ, including a simple moving average (Mean Reversion) trading strategy with subsequent backtest of trade signals, outputting key performance metrics to inform personal trading.
 
-- NLP
+- Natural Language Processing (NLP)
+  - [Amazon Reviews Classification](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Amazon_Reviews_Classification.ipynb): Prediction of amazon review ratings using the Net Promoter Score (NPS) scale from text analysis of review submissions. Data pre-processing includes Lemmatization, TF-IDF Vectorization, Principle Component Analysis, Scaling, and SMOTE. Models include Log Regression, Random Forest Classifier, and K-Nearest Neighbors Classifier. 
   - [Word Cloud](https://github.com/HypnoticRegression/Data_Science_Portfolio/blob/main/Word_Clouding.ipynb): Creating a simple word cloud and adding some flare by fitting the world cloud to a background image
+
 
 - SQL
   - Project
